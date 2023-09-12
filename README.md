@@ -1,2 +1,3 @@
 # my_first_repo
-a demonstration repository showing how github works for GWU class
+my first repo for GW
+new stuff, yay!
